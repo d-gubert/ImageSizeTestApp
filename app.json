@@ -1,0 +1,16 @@
+{
+    "id": "9a6ccaf9-dc46-41ef-abb6-f029872e6023",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "apokvl l",
+        "homepage": "az",
+        "support": "fglv"
+    },
+    "name": "ImageSizeText",
+    "nameSlug": "imagesizetext",
+    "classFile": "ImageSizeTextApp.ts",
+    "description": "a;esl./rkjgjaweg",
+    "implements": []
+}
